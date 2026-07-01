@@ -1,0 +1,14 @@
+title: "Trajectory-Aware Data"
+description: "A position piece on trajectory-aware data quality for GRPO-based agentic RL."
+theme: minima
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
